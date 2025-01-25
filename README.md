@@ -10,6 +10,26 @@ This repository contains a comprehensive list of the best and latest web shells 
 - **Persistence:** These shells allow for persistent access to the server without triggering any cleanup or server wipe protocols.
 - **Extensive Functionality:** Manage files, execute commands, and perform various tasks on the server with ease.
 
+
+# Bypass 
+- forbidden
+- auto delet
+- blank
+- internal server error
+- imunify360
+- not acceptable
+* Bypass 403
+* Bypass 404
+* Bypass 500
+* Bypass litespeed
+* Bypass blank php
+* Bypass downloaded
+* Bypass bitninja upload (u can upload shell.jpg)
+* Bypass PHP7x disable function
+* Bypass PHP5x disable function
+* Added Function Bypass
+
+
 ## Why Use These Web Shells?
 
 Web shells provide an effective way to interact with remote servers, giving you the ability to upload, modify, and control files without needing physical access. These shells are essential tools for penetration testers, red teams, and cybersecurity researchers. The shells listed here are tried and tested, ensuring compatibility with various environments and configurations.
